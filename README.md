@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd-year student passionate about **Software Development** and **Problem Solving**.
+- 🎓 Final Year student passionate about **Software Development** and **Problem Solving**.
 - 💻 Skilled in **React**, **MySQL**, **Java**, **Spring Boot**, and **Angular**.
 - 🧠 Solved **400+ problems** on LeetCode, actively improving in **trees**, **recursion**, and **SQL**.
 - 📜 Certified in *Programming in Java* (NPTEL), *Introduction to Generative AI* (Google Cloud), and multiple courses on Infosys Springboard.
