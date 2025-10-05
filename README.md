@@ -56,7 +56,8 @@
 ---
 
 ## 🐍 Snake Contributions
-![snake gif](https://github.com/selvaganesh12a/selvaganesh12a/.github/workflows/snake.yml)
+
+![snake gif](https://github.com/selvaganesh12a/selvaganesh12a/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
