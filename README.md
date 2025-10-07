@@ -15,9 +15,9 @@
 ## 🚀 About Me
 - 🎓 Final Year student passionate about **Software Development** and **Problem Solving**.
 - 💻 Skilled in **React**, **MySQL**, **Java**, **Spring Boot**, and **Angular**.
-- 🧠 Solved **400+ problems** on LeetCode, actively improving in **trees**, **recursion**, and **SQL**.
-- 📜 Certified in *Programming in Java* (NPTEL), *Introduction to Generative AI* (Google Cloud), and multiple courses on Infosys Springboard.
-- 🏆 Experience in developing **end-to-end web applications** and working on **Spring Boot + Angular** projects.
+- 🧠 Solved **600+ problems** on LeetCode, actively improving in **trees**, **recursion**, and **SQL**.
+- 📜 Certified in *Programming in Java* (NPTEL), and multiple courses on Infosys Springboard.
+- 🏆 Experience in developing **end-to-end web applications** and working on **Spring Boot + React** projects.
 
 ---
 
@@ -30,13 +30,13 @@
 ---
 
 ## 📌 Featured Projects
-- **Hotel Booking Management System** – MEAN stack app for booking and managing rooms with JWT-based authentication.
-- **Health Hub Appointment Booking System** – Java, Spring Boot, MySQL, Angular-based healthcare appointment platform.
+- **Health Hub Appointment Booking System** – Java, Spring Boot, MySQL, React-based healthcare appointment platform.
+- **Student Record Management System** – Java, Spring Boot, MySQL, React-based student record platform.
 
 ---
 
 ## 📈 Coding Profiles
-- **LeetCode:** [View Profile]([https://leetcode.com/u/selva_official/]) _(500+ problems solved)_  
+- **LeetCode:** [View Profile]([https://leetcode.com/u/selva_official/]) _(600+ problems solved)_  
 - **HackerRank:** [View Profile]([https://www.hackerrank.com/profile/selvaganesh12a])  
 
 ---
