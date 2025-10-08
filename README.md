@@ -2,8 +2,13 @@
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Selva Ganesh
 </h1>
 
-## 💡 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api)
+<h2 align="center">
+  💡 Quote of the Day
+</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api" alt="quote of the day"/>
+</p>
 
 ---
 
@@ -18,7 +23,7 @@
 
 ## 🚀 About Me
 - 🎓 Final Year student passionate about **Software Development** and **Problem Solving**.
-- 💻 Skilled in **React**, **MySQL**, **Java**, **Spring Boot**, and **Angular**.
+- 💻 Skilled in **React**, **MySQL**, **Java**, **Spring Boot**.
 - 🧠 Solved **600+ problems** on LeetCode, actively improving in **trees**, **recursion**, and **SQL**.
 - 📜 Certified in *Programming in Java* (NPTEL), and multiple courses on Infosys Springboard.
 - 🏆 Experience in developing **end-to-end web applications** and working on **Spring Boot + React** projects.
