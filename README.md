@@ -36,8 +36,8 @@
 ---
 
 ## 📈 Coding Profiles
-- **LeetCode:** [View Profile]([https://leetcode.com/u/selva_official/]) _(600+ problems solved)_  
-- **HackerRank:** [View Profile]([https://www.hackerrank.com/profile/selvaganesh12a])  
+- **LeetCode:** [View Profile](https://leetcode.com/u/selva_official/) _(600+ problems solved)_  
+- **HackerRank:** [View Profile](https://www.hackerrank.com/profile/selvaganesh12a)  
 
 ---
 
@@ -62,7 +62,7 @@
 ---
 
 ## 📬 Let's Connect
-- **LinkedIn:** [linkedin.com/in/selva-ganesh]([https://www.linkedin.com/in/selva-ganesh-v-offic/])
+- **LinkedIn:** [Connect with Linkedin](https://www.linkedin.com/in/selva-ganesh-v-offic/)
 - **Email:** selvaganesh12a@gmail.com
 
 ---
