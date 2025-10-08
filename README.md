@@ -3,7 +3,7 @@
 </h1>
 
 ## 💡 Quote of the Day
-![Quote](https://github-readme-quotes.vercel.app/quote?theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api)
 
 ---
 
