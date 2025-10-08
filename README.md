@@ -7,8 +7,12 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=selvaganesh12a&label=Profile%20Views&color=0e75b6&style=flat)  
-![Visitor Map](https://visitcount.itsvg.in/api?id=selvaganesh12a&label=Profile%20Visitors&color=0e75b6&icon=5&pretty=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=selvaganesh12a&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
+<a href='https://mapmyvisitors.com/web/1bzux'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=0e1633&w=761&t=m&d=qXXkURdcldM1cJTWQMIfJUdatWlzkTXsFjFB9bYjFDE&co=0b4975&ct=cdd4d9'/></a>
+</p>
 
 ---
 
